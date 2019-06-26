@@ -1,0 +1,7 @@
+{
+  "tf_sample_model.pipeline_name": "tf-sample-model",
+  "tf_sample_model.tfx_root": "/pipeline/tfx",
+  "tf_sample_model.metadata_db": "/pipeline/metadata",
+  "tf_sample_model.logs.root": "/tmp",
+  "tf_sample_model.logs.level": "INFO"
+}
