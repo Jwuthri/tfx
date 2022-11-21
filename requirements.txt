@@ -4,6 +4,6 @@ tensorflow_transform==0.13.0
 tensorflow_metadata==0.13.0
 tensorflow_data_validation==0.13.1
 tensorflow_model_analysis==0.13.2
-tensorflow==1.13.1
+tensorflow==2.9.3
 mlflow==1.0.0
 #tfx==0.14.0
